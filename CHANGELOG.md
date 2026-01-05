@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.17.4](https://github.com/bastean/codexgo/compare/v4.17.3...v4.17.4) (2026-01-05)
+
+### Chores
+
+- **deps:** upgrade ([cc8c4f9](https://github.com/bastean/codexgo/commit/cc8c4f96f2ec799c38d4bd9c4ce20e91047a04f6))
+
 ## [4.17.3](https://github.com/bastean/codexgo/compare/v4.17.2...v4.17.3) (2025-10-15)
 
 ### Chores
